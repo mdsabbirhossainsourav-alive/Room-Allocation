@@ -15,7 +15,9 @@ The next line contains N space-separated integers, A1,A2,…,AN, the number of p
 For each test case, output on a new line, the minimum number of rooms needed to accommodate all students, such that a room never contains people from different colleges.
 ## Constraints
 1 ≤ T ≤ 100
+
 1 ≤ N ≤ 100
+
 1 ≤ Ai ≤ 100
 Sample 1:
 ## Input
